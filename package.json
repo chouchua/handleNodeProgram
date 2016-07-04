@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/chouchua/handleNodeProgram/issues"
   },
-  "homepage": "https://github.com/chouchua/handleNodeProgram#readme"
+  "homepage": "https://github.com/chouchua/handleNodeProgram#readme",
+  "dependencies": {
+    "doctrine": "^1.2.2",
+    "esprima": "^2.7.2",
+    "utilityFileSystem": "^1.0.2"
+  }
 }
